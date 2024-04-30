@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/234bMY4A)
+1. Go to VS code.
+2. Make sure the code file "project_DSA_IITJ.c" is in the current working directory.
+3. Run the code and proceed with the command line arguments.
